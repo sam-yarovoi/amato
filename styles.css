@@ -1,11 +1,11 @@
-.btn_green {
-    background: linear-gradient(180deg,#EA8824,#EA8824) !important;
+btn_green {
+    background: #EA8824;
 }
 
-.btn {
-    border-radius: 45px !important;
+btn {
+    border-radius: 45px;
 }
 
-.plan-preview__resume {
-    background: #000 !important;
+plan-preview__resume {
+    background: #000;
 }
