@@ -1,0 +1,186 @@
+.tc-map-sector_colored0 {
+    fill: black;
+}
+.header__container {
+	background: #000000;
+	padding: 20px 15px 50px 15px;
+}
+.header__event-title {
+	color: #EA8824;
+}
+.header__age-rating {
+	border: 2px solid #909090;
+	color: #909090;
+}
+.switcher__container {
+	border: 1.5px solid #909090;
+	color: #909090;
+}
+.header__event-description {
+	color: #ffffff;
+}
+.header__event-description-cover img {
+	border-radius: 10px;
+}
+.plan-preview__body {
+	background: #000000;
+}
+.venue-plan__header {
+	background: #000000;
+}
+.venue-plan__body {
+	padding: 50px 0px 10px;
+}
+.venue-plan>svg {
+	padding: 20px 0px 0px !important;
+}
+.fil1.str0 {
+	fill: #000000;
+}
+.fil0 {
+	fill: #909090;
+}
+.plan-preview__body {
+    background: #000000;
+    padding: 15px;
+}
+.plan-preview__resume {
+	background: #000000;
+	padding: 10px 15px 10px;
+}
+.btn_green {
+    background: #EA8824;
+}
+.e-popup__footer {
+	background: linear-gradient(180deg,#323232 0,#000000 17%,#090909);
+	padding: 35px 15px;
+}
+.tc-map-seat_border:hover, .tc-map-seat_border_hover {
+	stroke: #fff;
+	stroke-opacity: 1;
+}	
+.plan-tickets-footer {
+	background-color: #000;
+}
+.error-tooltip_close-options {
+    background: #000;
+}
+.close-options__item {
+	color: #EA8824;
+}
+.error-tooltip_close-options:before {
+    background: #000;
+}
+.footer__title:before {
+	display: none !important;
+}
+
+
+.tc-map-seat.selected {
+	stroke: #fff;
+}
+.header-mobile__container {
+	background: #000000;
+	padding: 10px;
+}
+.header-mobile__event-title {
+    	color: #909090;
+	margin: 0px;
+}
+.header-mobile__event-description {
+    	color: #ededed;
+	margin: 10px 0 0 0px;
+}
+.mobile-plan-preview__link {
+	color: #909090;
+}
+.mobile-plan-preview__link svg {
+    fill: #909090;
+}
+.header-mobile__info-btn {
+	color: #EA8824;
+}
+.header-mobile__event-title__age-rating {
+	border: 2px solid #909090;
+	color: #909090;
+}
+.mobile-plan-preview__container {
+	background-color: #000000;
+	padding: 10px;
+}
+.price-legend {
+	background-color: #000;
+	border-radius: 10px;
+	border: 2px solid #909090;
+}
+.price-legend__wrapper {
+	padding: 0px;
+}
+.pinch-view {
+	background-color: rgb(0 0 0) !important;
+}
+.event-header {
+	background: #000;
+	color: #EA8824;
+	position: unset;
+}
+.venue-plan>svg {
+	padding: 45px 15px 45px;
+}
+.e-popup {
+    background: #000;
+}
+.payment-info {
+	color: #909090;
+}
+.disabled.desktop {
+    	background: #000 !important;
+}
+
+.tc-widget-frame_popup {
+	background: #000 !important;
+}
+
+.mobile-plan-preview__link {
+    display: none;
+}
+
+.header-mobile__info-btn {
+    display: none;
+}
+
+.plan-preview__zoom>button {
+    background: none;
+    border: 2px solid #909090;
+    border-radius: 50%;
+    color: #ffffff;
+    height: 20px;
+    margin: 2px;
+    padding: 3px;
+    width: 20px;
+}
+.mobile-plan-preview .plan-preview__zoom {
+    right: 5px;
+    top: 90px;
+}
+
+.selection-box__content {
+    background-color: #000;
+    position: relative;
+    width: calc(100vw - 32px);
+    border: 1px solid #909090;
+    border-radius: 10px;
+	color: #EA8824;
+}
+
+.selection-box__select-wrap select {
+    appearance: none;
+    background: #000000;
+    border: 1px solid #909090;
+    border-radius: 5px;
+    color: #EA8824;
+}
+
+.selection-box:after {
+    background-color: #909090;
+}
