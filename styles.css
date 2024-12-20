@@ -25,6 +25,12 @@
 .header__event-description-cover img {
 	border-radius: 10px;
 }
+.header-mobile__event-description-cover img {
+    height: auto;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 15px;
+}
 .plan-preview__body {
 	background: #000000;
 }
@@ -35,7 +41,7 @@
 	padding: 50px 0px 10px;
 }
 .venue-plan>svg {
-	padding: 20px 0px 20px 0px !important;
+	padding: 0px 0px 20px 0px;
 }
 .fil1.str0 {
 	fill: #000000;
@@ -77,8 +83,6 @@
 .footer__title:before {
 	display: none !important;
 }
-
-
 .tc-map-seat.selected {
 	stroke: #fff;
 }
@@ -100,7 +104,6 @@
 .mobile-plan-preview__link svg {
     fill: #909090;
 }
-
 .header-mobile__event-title__age-rating {
 	border: 2px solid #909090;
 	color: #909090;
@@ -111,8 +114,7 @@
 }
 .price-legend {
 	background-color: #000;
-	border-radius: 10px;
-	border: 2px solid #909090;
+	border: none;
 }
 .price-legend__wrapper {
 	padding: 0px;
@@ -125,9 +127,6 @@
 	color: #EA8824;
 	position: unset;
 }
-.venue-plan>svg {
-	padding: 45px 15px 45px;
-}
 .e-popup {
     background: #000;
 }
@@ -137,11 +136,9 @@
 .disabled.desktop {
     	background: #000 !important;
 }
-
 .tc-widget-frame_popup {
 	background: #000 !important;
 }
-
 .mobile-plan-preview__link {
     display: none;
 }
@@ -149,7 +146,6 @@
 .header-mobile__info-btn {
     display: none;
 }
-
 .plan-preview__zoom>button {
     background: none;
     border: 2px solid #909090;
@@ -164,7 +160,6 @@
     right: 5px;
     top: 90px;
 }
-
 .selection-box__content {
     background-color: #000;
     position: relative;
@@ -173,7 +168,6 @@
     border-radius: 10px;
 	color: #EA8824;
 }
-
 .selection-box__select-wrap select {
     appearance: none;
     background: #000000;
@@ -181,11 +175,9 @@
     border-radius: 5px;
     color: #EA8824;
 }
-
 .selection-box:after {
     background-color: #909090;
 }
-
 @media (max-width:914px){
  /* Venue plan  header */
  #plan-preview .plan-preview__body .venue-plan__header{
