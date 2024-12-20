@@ -184,3 +184,10 @@
 .selection-box:after {
     background-color: #909090;
 }
+
+@media (max-width:914px){
+ /* Venue plan  header */
+ #plan-preview .plan-preview__body .venue-plan__header{
+  max-width:300px;
+ }
+}
