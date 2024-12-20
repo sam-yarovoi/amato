@@ -1,6 +1,9 @@
 .tc-map-sector_colored0 {
     fill: black;
 }
+.header-mobile__info-box {
+    max-width: 100%;
+}
 .header__container {
 	background: #000000;
 	padding: 20px 15px 50px 15px;
@@ -97,9 +100,7 @@
 .mobile-plan-preview__link svg {
     fill: #909090;
 }
-.header-mobile__info-btn {
-	color: #EA8824;
-}
+
 .header-mobile__event-title__age-rating {
 	border: 2px solid #909090;
 	color: #909090;
