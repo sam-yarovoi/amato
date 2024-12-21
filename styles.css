@@ -201,11 +201,6 @@
 }
 .selection-box__content {
     background-color: #101212;
-    position: relative;
-    width: calc(100vw - 32px);
-    border: 1px solid #909090;
-    border-radius: 10px;
-	color: #EF4123 ;
 }
 .selection-box__select-wrap select {
     appearance: none;
@@ -228,3 +223,35 @@
         font-family: Helvetica, Arial, PT Sans, sans-serif;
     }
 }
+.mobile-order-total__number {
+    color: #0066B3;
+}
+.mobile-order-total__amount {
+    color: #ffffff;
+}
+.ticket__show-desc {
+    display: none;
+}	
+.event-header__link_next {
+    background: #EF4123;
+}
+@media (max-width: 540px) {
+    .e-popup__body {
+        background-color: #101212;
+    }
+}
+.popup-v2__paper {
+    background-color: #101212;
+}	
+.price-legend__actions {
+    background-color: unset;
+}	
+.price-legend__actions_action {
+    color: #EF4123;
+}	
+.tc-map-seat_colored {
+    fill: #1d1d1d;
+    background-color: #1d1d1d;
+    border-color: #1d1d1d;
+    color: #1d1d1d;
+}	
