@@ -259,6 +259,7 @@
     .form__input {
         background: #101212;
 	border: 1px solid #c9c9c9;
+	color: #ffffff;    
     }
 }
 .payment-systems-list__select-system {
@@ -272,5 +273,13 @@
 }
 .form__label {
     color: #fffffd;
+}
+@media (max-width: 540px) {
+    .event-header {
+        position: sticky;
+    }
+}	
+.payment-form {
+    border-bottom: none;
 }
 	
