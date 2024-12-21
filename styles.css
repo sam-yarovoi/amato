@@ -15,7 +15,7 @@
 	padding: 20px 15px 50px 15px;
 }
 .header__event-title {
-	color: #EA8824;
+	color: #EF4123 ;
 }
 .header__age-rating {
 	border: 2px solid #909090;
@@ -47,9 +47,6 @@
 .header-mobile__event-description__desc span {
     line-height: 1.1;
 }
-p {
-  margin-bottom: 5px; /* Adds space after each paragraph */
-}
 .plan-preview__body {
 	background: #101212;
 }
@@ -77,7 +74,7 @@ p {
 	padding: 10px 15px 10px;
 }
 .btn_green {
-    background: #EA8824;
+    background: #EF4123 ;
 }
 .e-popup__footer {
 	background: linear-gradient(180deg,#323232 0,#101212 17%,#090909);
@@ -94,7 +91,7 @@ p {
     background: #101212;
 }
 .close-options__item {
-	color: #EA8824;
+	color: #EF4123 ;
 }
 .error-tooltip_close-options:before {
     background: #101212;
@@ -151,7 +148,7 @@ p {
 }	
 .event-header {
 	background: #101212;
-	color: #EA8824;
+	color: #EF4123 ;
 	position: unset;
 }
 .e-popup {
@@ -208,14 +205,14 @@ p {
     width: calc(100vw - 32px);
     border: 1px solid #909090;
     border-radius: 10px;
-	color: #EA8824;
+	color: #EF4123 ;
 }
 .selection-box__select-wrap select {
     appearance: none;
     background: #101212;
     border: 1px solid #909090;
     border-radius: 5px;
-    color: #EA8824;
+    color: #EF4123 ;
 }
 .selection-box:after {
     background-color: #909090;
