@@ -124,9 +124,11 @@
 .price-legend__wrapper {
 	padding: 0px;
 }
-.pinch-view {
-	background-color: #101212;
-}
+@media (max-width: 540px) {
+    .pinch-view {
+        background-color: #101212;
+    }
+}	
 .event-header {
 	background: #101212;
 	color: #EA8824;
