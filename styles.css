@@ -1,3 +1,7 @@
+@media screen and (max-width: 540px) {
+    body {
+        font-family: Helvetica, Arial, PT Sans, sans-serif;
+    }
 .tc-map-sector_colored0 {
     fill: black;
 }
@@ -16,8 +20,7 @@
 	color: #909090;
 }
 .switcher__container {
-	border: 1.5px solid #909090;
-	color: #909090;
+	display: none;
 }
 .header__event-description {
 	color: #ffffff;
@@ -91,8 +94,10 @@
 	padding: 10px;
 }
 .header-mobile__event-title {
-    	color: #909090;
+	font-size: 18px;
+    	color: #EF4123;
 	margin: 0px;
+	max-width: 100%;
 }
 .header-mobile__event-description {
     	color: #ededed;
@@ -116,6 +121,10 @@
 	background-color: #000;
 	border: none;
 }
+@media (max-width: 540px) {
+    .price-legend {
+        padding: 10px 10px 0px 15px;
+    }
 .price-legend__wrapper {
 	padding: 0px;
 }
