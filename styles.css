@@ -48,7 +48,7 @@
     line-height: 1.1;
 }
 p {
-  margin-bottom: 16px; /* Adds space after each paragraph */
+  margin-bottom: 5px; /* Adds space after each paragraph */
 }
 .plan-preview__body {
 	background: #101212;
