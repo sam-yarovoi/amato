@@ -36,6 +36,14 @@
     width: 100%;
     border-radius: 15px;
 }
+.header-mobile__event-description__datetime {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.header-mobile__event-description__place {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
 .plan-preview__body {
 	background: #101212;
 }
