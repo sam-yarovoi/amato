@@ -125,7 +125,7 @@
 	padding: 0px;
 }
 .pinch-view {
-	background-color: rgb(0 0 0) !important;
+	background-color: #101212;
 }
 .event-header {
 	background: #101212;
@@ -192,9 +192,5 @@
 @media screen and (max-width: 540px) {
     body {
         font-family: Helvetica, Arial, PT Sans, sans-serif;
-    }
-@media (max-width: 540px) {
-    .pinch-view {
-        background-color: #101212;
     }
 }
