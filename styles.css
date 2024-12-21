@@ -193,3 +193,8 @@
     body {
         font-family: Helvetica, Arial, PT Sans, sans-serif;
     }
+@media (max-width: 540px) {
+    .pinch-view {
+        background-color: #101212;
+    }
+}
