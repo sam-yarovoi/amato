@@ -255,3 +255,22 @@
     border-color: #1d1d1d;
     color: #1d1d1d;
 }	
+@media screen and (max-width: 540px) {
+    .form__input {
+        background: #101212;
+	border: 1px solid #c9c9c9;
+    }
+}
+.payment-systems-list__select-system {
+    color: #ffffff;
+}
+.payment-systems-item__info {
+    color: #ffffff;
+}
+.payment-systems-list__selected-system {
+    color: #ffffff;
+}
+.form__label {
+    color: #fffffd;
+}
+	
