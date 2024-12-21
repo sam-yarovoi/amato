@@ -126,7 +126,7 @@
 }
 @media (max-width: 540px) {
     .pinch-view {
-        background-color: #101212 !important;
+        background-color: rgb(16, 18, 18);
     }
 }	
 .event-header {
