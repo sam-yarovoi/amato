@@ -1,6 +1,9 @@
 .tc-map-seat_disabled {
     fill: #1d1d1d;
 }
+.tc-map-seat_disabled:hover {
+    fill: #1d1d1d;
+}
 .tc-map-sector_colored0 {
     fill: black;
 }
