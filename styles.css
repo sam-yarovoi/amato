@@ -31,7 +31,11 @@
 	border-radius: 10px;
 }
 .header-mobile__event-description-cover img {
-	display: none;
+	content: none; /* Stops some types of image content rendering */
+    	visibility: hidden;
+    	display: none;
+    	width: 0;
+    	height: 0;
 }
 .header-mobile__event-description__datetime {
     margin-bottom: 5px;
