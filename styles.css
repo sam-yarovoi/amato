@@ -31,10 +31,7 @@
 	border-radius: 10px;
 }
 .header-mobile__event-description-cover img {
-    height: auto;
-    margin-top: 20px;
-    width: 100%;
-    border-radius: 15px;
+	display: none;
 }
 .header-mobile__event-description__datetime {
     margin-bottom: 5px;
