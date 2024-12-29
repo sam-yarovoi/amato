@@ -274,12 +274,6 @@
 .form__label {
     color: #fffffd;
 }
-@media (max-width: 540px) {
-    .event-header {
-        position: sticky;
-    }
-}	
 .payment-form {
     border-bottom: none;
 }
-	
