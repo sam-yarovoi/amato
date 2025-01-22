@@ -67,7 +67,7 @@
 	fill: #909090;
 }
 .cls-3, .cls-4 {
-    fill: #0E0E0E;
+    fill: #0E0E0E !important;
 }
 .plan-preview__body {
     background: #101212;
