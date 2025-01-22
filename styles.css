@@ -3,10 +3,10 @@ path.cls-3, .cls-4 {
 }
 /*.tc-map-seat_disabled {
     fill: #1d1d1d;
-} */
+}
 .tc-map-seat_disabled:hover {
     fill: #1d1d1d;
-}
+} */
 .tc-map-sector_colored0 {
     fill: black;
 }
@@ -84,10 +84,10 @@ path.cls-3, .cls-4 {
 	background: linear-gradient(180deg,#323232 0,#101212 17%,#090909);
 	padding: 35px 15px;
 }
-.tc-map-seat_border:hover, .tc-map-seat_border_hover {
+/* .tc-map-seat_border:hover, .tc-map-seat_border_hover {
 	stroke: #fff;
 	stroke-opacity: 1;
-}	
+} */	
 .plan-tickets-footer {
 	background-color: #101212;
 }
@@ -103,9 +103,9 @@ path.cls-3, .cls-4 {
 .footer__title:before {
 	display: none !important;
 }
-.tc-map-seat.selected {
+/* .tc-map-seat.selected {
 	stroke: #fff;
-}
+} */
 .header-mobile__container {
 	background: #101212;
 	padding: 10px;
@@ -254,12 +254,12 @@ path.cls-3, .cls-4 {
 .price-legend__actions_action {
     color: #EF4123;
 }	
-.tc-map-seat_colored {
+/* .tc-map-seat_colored {
     fill: #1d1d1d;
     background-color: #1d1d1d;
     border-color: #1d1d1d;
     color: #1d1d1d;
-}	
+} */	
 @media screen and (max-width: 540px) {
     .form__input {
         background: #101212;
