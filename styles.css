@@ -1,9 +1,9 @@
 path.cls-3, .cls-4 {
     fill: unset !important;
 }
-.tc-map-seat_disabled {
+/*.tc-map-seat_disabled {
     fill: #1d1d1d;
-}
+} */
 .tc-map-seat_disabled:hover {
     fill: #1d1d1d;
 }
