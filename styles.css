@@ -1,3 +1,6 @@
+.cls-3, .cls-5 {
+    fill: #0E0E0E !important;
+}
 .tc-map-seat_disabled {
     fill: #1d1d1d;
 }
@@ -65,9 +68,6 @@
 }
 .fil0 {
 	fill: #909090;
-}
-.cls-3 {
-    fill: #0E0E0E !important;
 }
 .plan-preview__body {
     background: #101212;
